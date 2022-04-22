@@ -1,0 +1,7 @@
+Green: #007b63
+Purple: #5C7E8B
+Yellow: #f4d521
+Light Pink: #ffd9df
+
+
+linear-gradient(45deg, #10E8F6, #FA35DA, #FA7C35)
