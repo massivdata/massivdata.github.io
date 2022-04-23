@@ -191,7 +191,8 @@ input[type=radio]{
 input.text,input.title,input[type=email],input[type=password],input[type=tel],input[type=text],select,textarea{ 
     background-color:#fff;
     border:1px solid #bbb;
-    padding:2px;color:#4e4e4e
+    padding:2px;
+    color:#dbdbdb;
 }
 input.text:focus,input.title:focus,input[type=text]:focus,select:focus,textarea:focus {
     border-color:#2d3940;
